@@ -1,0 +1,60 @@
+Uri: https://kalaaji.github.io/
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\index.htm
+Content Type: text/html
+
+Uri: https://kalaaji.github.io/favicon.ico
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\font-awesome\3.2.1\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://kalaaji.github.io/css/normalize.min.css
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\css\normalize.min.css
+Content Type: text/css
+
+Uri: https://kalaaji.github.io/css/main.css
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\css\main.css
+Content Type: text/css
+
+Uri: https://github.com/kalaaji
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\kalaaji.html
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\ajax\libs\jquery\1.10.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://kalaaji.github.io/js/vendor/jquery.hashchange.min.js
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\js\vendor\jquery.hashchange.min.js
+Content Type: application/javascript
+
+Uri: https://kalaaji.github.io/js/vendor/jquery.easytabs.min.js
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\js\vendor\jquery.easytabs.min.js
+Content Type: application/javascript
+
+Uri: https://kalaaji.github.io/js/main.js
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\js\main.js
+Content Type: application/javascript
+
+Uri: https://kalaaji.github.io/Adrien.jpg
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\Adrien.jpg
+Content Type: image/jpeg
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:400,700
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\css.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Lato:400,700
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\css-1.css
+Content Type: text/css
+
+Uri: https://kalaaji.github.io/images/floor.jpg
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\images\floor.jpg
+Content Type: image/jpeg
+
+Uri: https://maxxing.com/
+File Name: C:\Downloaded Web Sites\kalaaji.github.io\index-1.htm
+Content Type: text/html
+
